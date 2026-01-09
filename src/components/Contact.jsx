@@ -66,7 +66,7 @@ const handleSubmit = async (e) => {
             />
             <textarea
               name="message"
-              placeholder="Tell me about your project or just say hello..."
+              placeholder="your message."
               value={formData.message}
               onChange={handleChange}
               className="p-3 rounded-md border border-[#555] text-sm h-36 resize-none placeholder-gray-500 dark:placeholder-gray-400"
