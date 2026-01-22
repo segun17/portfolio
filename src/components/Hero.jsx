@@ -13,7 +13,7 @@ export default function Hero() {
             Full-stack developer creating modern web applications with React, Node.js, and modern tools.
           </p>
           <div className="flex gap-4 mt-6">
-            <a  href="/Segun_Oladokun_CV.pdf" download="Segun_Oladokun_CV.pdf" className="inline-flex items-center gap-2 px-4 py-2 text-base font-semibold text-white rounded-md bg-white/10 hover:bg-white/20">
+            <a  href="/Segun_Oladokun_CV(1).pdf" download="Segun_Oladokun_CV(1).pdf" className="inline-flex items-center gap-2 px-4 py-2 text-base font-semibold text-white rounded-md bg-white/10 hover:bg-white/20">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-download mr-2 h-5 w-5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" x2="12" y1="15" y2="3"></line></svg>
               Download CV
             </a>

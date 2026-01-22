@@ -34,7 +34,7 @@ export default function AboutExperience() {
             <h3 className="mb-3 text-xl font-semibold">Work Experience</h3>
             <div className="p-4 text-black rounded-lg bg-gradient-to-r from-violet-600 to-cyan-500">
               <h4 className="font-semibold">Junior Full-Stack Developer</h4>
-              <p className="text-base">Babtech Computers | September 2024 — Till date</p>
+              <p className="text-base">Babtech Computers</p>
               <ul className="mt-3 text-base list-disc list-inside">
                 <li>Completed training program in full-stack web development</li>
                 <li>Contributed to building web applications and features</li>
